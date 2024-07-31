@@ -1,0 +1,2 @@
+cargo new rust_app
+cd rust_app
